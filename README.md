@@ -1,6 +1,6 @@
 # Gym Calendar
 
-<img src="logo.png" width="96" alt="Gym Calendar logo">
+<img src="icon.png" width="96" alt="Gym Calendar logo">
 
 Plan and track your workouts, even with no signal in the gym. A tool instead of a service: cloud features are optional and nothing shows up in your face that you didn't ask for.
 
