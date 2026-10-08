@@ -2,11 +2,16 @@
 
 _Note: The source code is private for the time being. This repo is a temporary stand-in for the app web page during development._
 
-<img src="icon.png" width="96" alt="Gym Calendar logo">
+<div align="center">
+<img src="icon.png" width="128" alt="Gym Calendar logo">
+</div>
 
-Plan and track your workouts, even with no signal in the gym. A tool instead of a service: cloud features are optional and nothing shows up in your face that you didn't ask for.
+Plan your workouts and track your progress, offline or online. A tool rather than a service: cloud features are optional and nothing shows up in your face that you didn't ask for.
 
-![Set-rest timer demo](screenshots/demo.gif)
+<div align="center">
+<img src="https://github.com/linewelder/gym-calendar-readme/blob/main/screenshots/demo.gif?raw=true" width="400" alt="App demo">
+<p><i>Note: The demo has a reduced framerate to save on the file size</i></p>
+</div>
 
 ## Features
 
