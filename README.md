@@ -1,5 +1,7 @@
 # Gym Calendar
 
+_Note: The source code is private for the time being. This repo is a temporary stand-in for the app web page during development._
+
 <img src="icon.png" width="96" alt="Gym Calendar logo">
 
 Plan and track your workouts, even with no signal in the gym. A tool instead of a service: cloud features are optional and nothing shows up in your face that you didn't ask for.
@@ -30,7 +32,3 @@ Use the set-rest timer, or enter results directly using an effortless UI.
 
 - **Native Android app:** Kotlin, Jetpack Compose, Hilt, Room
 - **Offline-first:** all data lives on the device and the app is fully usable without a connection, since gyms often have poor reception. Cloud sync is designed in from the start.
-
-## About this repo
-
-The source code is private for the time being. Happy to walk through it in private.
